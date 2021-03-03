@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.user{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+background-color: darkorange;
+color: cornsilk;
+text-align: center;
+padding-top: 8px;
+margin: auto;
+}
+.spinner{
+  margin-left: 50%;
+  margin-top: 20%;
+}
